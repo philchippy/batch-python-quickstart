@@ -21,11 +21,11 @@
 Configure Batch and Storage Account credentials
 """
 
-BATCH_ACCOUNT_NAME = ''  # Your batch account name
-BATCH_ACCOUNT_KEY = ''  # Your batch account key
-BATCH_ACCOUNT_URL = ''  # Your batch account URL
-STORAGE_ACCOUNT_NAME = ''
-STORAGE_ACCOUNT_KEY = ''
+BATCH_ACCOUNT_NAME = 'pythonrunner'  # Your batch account name
+BATCH_ACCOUNT_KEY = '+cttssE/HabpB/eZsC1XxHoWTNoU3DeBI6U0EPXpAbYpu3e1dfPCcZPXVKkfFMB8nEM6v18pIkyh+ABaqO0QZQ=='  # Your batch account key
+BATCH_ACCOUNT_URL = 'https://pythonrunner.uksouth.batch.azure.com'  # Your batch account URL
+STORAGE_ACCOUNT_NAME = 'cotsdistillery1'
+STORAGE_ACCOUNT_KEY = '+cttssE/HabpB/eZsC1XxHoWTNoU3DeBI6U0EPXpAbYpu3e1dfPCcZPXVKkfFMB8nEM6v18pIkyh+ABaqO0QZQ=='
 STORAGE_ACCOUNT_DOMAIN = 'blob.core.windows.net' # Your storage account blob service domain
 
 POOL_ID = 'PythonQuickstartPool'  # Your Pool ID
